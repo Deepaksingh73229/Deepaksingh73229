@@ -54,21 +54,23 @@
 
 <br/>
 
+### 📊 GitHub Stats:
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/deepaksingh73229/">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=deepaksingh73229&theme=dark&font=montserrat&radius=10" alt="GitHub Stats" />
+  </a>
+</div>
+
+<br/>
+
 ### 📊 LeetCode Stats
 
 <div align="center">
   <br/>
   <a href="https://leetcode.com/deepaksingh73229/">
     <img src="https://leetcard.jacoblin.cool/deepaksingh73229?theme=dark&font=montserrat&radius=10&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
-
-### 📈 Github Graph
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/deepaksingh73229">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksingh73229&bg_color=0D1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
