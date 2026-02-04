@@ -1,53 +1,51 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="150" />
-  <h1 align="center">Hi there, I'm Deepak Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-  <h3 align="center">🚀 Gen AI & Full Stack Web Developer Based in India</h3>
-
-  <p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120" />
+  <h1>Hi there, I'm Deepak Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h3>🚀 Gen AI & Full Stack Web Developer</h3>
+  
+  <p>
     <a href="https://www.linkedin.com/in/deepaksingh73229" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    &nbsp;
     <a href="https://www.youtube.com/@deepakkumarsingh73229" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
-    &nbsp;
     <a href="mailto:deepaksingh73229@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
 
 <br/>
 
-<h3>👨‍💻 About Me</h3>
+### 👨‍💻 About Me
 
-- 🔭 I'm currently working on an innovative **[AI Mental Health Chatbot](http://mend-ai-mental-health-counsellor.vercel.app/)**.
-- 🌱 I'm currently diving deep into **System Design** principles.
-- 👯 I'm looking to collaborate on projects to infuse them with cutting-edge **AI features**.
-- 💬 Ask me about **React, Node.js, and Generative AI integration**.
+- 🔭 I'm currently working on an innovative **[AI Mental Health Chatbot](http://mend-ai-mental-health-counsellor.vercel.app/)**
+- 🌱 I'm currently diving deep into **System Design** principles
+- 👯 I'm looking to collaborate on projects to infuse them with **Next.js & AI features**
+- 💬 Ask me about **React, Node.js, and Generative AI**
 
 <br/>
 
-<h3>🛠️ My Tech Arsenal</h3>
+### 🛠️ Tech Arsenal
 
-<div align="left">
+<div align="center">
   <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Languages" /><br>
+    <tr style="border: none;">
+      <td align="center" width="120" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" /><br>
         <b>Languages</b>
       </td>
-      <td align="center" width="160">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,mui" alt="Frontend" /><br>
+      <td align="center" width="160" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,mui" /><br>
         <b>Frontend</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" /><br>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br>
         <b>Backend</b>
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" alt="Tools" /><br>
+      <td align="center" width="120" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" /><br>
         <b>Tools</b>
       </td>
     </tr>
@@ -56,32 +54,26 @@
 
 <br/>
 
-<h3>📊 GitHub & Coding Stats</h3>
+### 📊 LeetCode Stats
 
 <div align="center">
-  <p>
-    <a href="https://github.com/deepaksingh73229">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=deepaksingh73229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Deepak's GitHub Stats" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/deepaksingh73229">
-      <img height="180" src="https://streak-stats.demolab.com?user=deepaksingh73229&theme=tokyonight&hide_border=true&background=00000000" alt="Deepak's GitHub Streak" />
-    </a>
-  </p>
+  <br/>
+  <a href="https://leetcode.com/deepaksingh73229/">
+    <img src="https://leetcard.jacoblin.cool/deepaksingh73229?theme=dark&font=montserrat&radius=10&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
 
-  <p>
-    <a href="https://github.com/deepaksingh73229">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksingh73229&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-    </a>
-    &nbsp;
-    <a href="https://leetcode.com/deepaksingh73229/">
-      <img height="180" src="https://leetcard.vercel.app/api?username=deepaksingh73229&theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-    </a>
-  </p>
+### 📈 Github Graph
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/deepaksingh73229">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksingh73229&bg_color=0D1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepaksingh73229&label=Profile%20Views&color=0e75b6&style=flat-square" alt="deepaksingh73229" />
+  <img src="https://komarev.com/ghpvc/?username=deepaksingh73229&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </div>
