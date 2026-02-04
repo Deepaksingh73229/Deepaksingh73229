@@ -65,7 +65,7 @@
     </a>
     &nbsp;
     <a href="https://github.com/deepaksingh73229">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksingh73229&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Deepak's GitHub Streak" />
+      <img height="180" src="https://streak-stats.demolab.com?user=deepaksingh73229&theme=tokyonight&hide_border=true&background=00000000" alt="Deepak's GitHub Streak" />
     </a>
   </p>
 
@@ -74,8 +74,8 @@
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksingh73229&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
     </a>
     &nbsp;
-    <a href="https://leetcode.com/deepaksingh73229/">
-      <img height="180" src="https://leetcard.vercel.app/api?username=deepaksingh73229&theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <a href="https://leetcode.com/">
+      <img height="180" src="https://leetcard.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
     </a>
   </p>
 </div>
