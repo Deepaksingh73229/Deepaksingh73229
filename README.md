@@ -1,21 +1,87 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Deepak Kumar
-=====================================================================================================================================
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="150" />
+  <h1 align="center">Hi there, I'm Deepak Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+  <h3 align="center">🚀 Gen AI & Full Stack Web Developer Based in India</h3>
 
-Gen AI & Full Stack Web Developer
----------------------------------
+  <p align="center">
+    <a href="https://www.linkedin.com/in/deepaksingh73229" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/@deepakkumarsingh73229" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    &nbsp;
+    <a href="mailto:deepaksingh73229@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>
 
-* ✉️  You can contact me at [deepaksingh73229@gmail.com](mailto:deepaksingh73229@gmail.com)
-* 🚀  I'm currently working on [AI Mental Health Chatbot](http://mend-ai-mental-health-counsellor.vercel.app/)
-* 🧠  I'm currently learning System Design
-* 👥  I'm looking to collaborate on projects to give them new edge with ai features
+<br/>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a>
-</p>
+<h3>👨‍💻 About Me</h3>
 
-### Socials
+- 🔭 I'm currently working on an innovative **[AI Mental Health Chatbot](http://mend-ai-mental-health-counsellor.vercel.app/)**.
+- 🌱 I'm currently diving deep into **System Design** principles.
+- 👯 I'm looking to collaborate on projects to infuse them with cutting-edge **AI features**.
+- 💬 Ask me about **React, Node.js, and Generative AI integration**.
 
-<p align="left"> <a href="https://www.github.com/deepaksingh73229" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/deepaksingh73229" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@deepakkumarsingh73229" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-<a href="https://www.github.com/deepaksingh73229" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/deepaksingh73229?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+<br/>
+
+<h3>🛠️ My Tech Arsenal</h3>
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Languages" /><br>
+        <b>Languages</b>
+      </td>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,mui" alt="Frontend" /><br>
+        <b>Frontend</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" /><br>
+        <b>Backend</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" alt="Tools" /><br>
+        <b>Tools</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<h3>📊 GitHub & Coding Stats</h3>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/deepaksingh73229">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=deepaksingh73229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Deepak's GitHub Stats" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/deepaksingh73229">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksingh73229&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Deepak's GitHub Streak" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/deepaksingh73229">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksingh73229&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    </a>
+    &nbsp;
+    <a href="https://leetcode.com/deepaksingh73229/">
+      <img height="180" src="https://leetcard.vercel.app/api?username=deepaksingh73229&theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    </a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepaksingh73229&label=Profile%20Views&color=0e75b6&style=flat-square" alt="deepaksingh73229" />
+</div>
