@@ -4,7 +4,7 @@
   <h3>🚀 Gen AI & Full Stack Web Developer</h3>
   
   <p>
-    <a href="https://www.linkedin.com/in/deepaksingh73229" target="_blank">
+    <a href="https://www.linkedin.com/in/deepakkumar73229" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.youtube.com/@deepakkumarsingh73229" target="_blank">
